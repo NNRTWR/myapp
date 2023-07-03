@@ -1,5 +1,5 @@
 package myapp;
 
 public class z {
-    public boolean bool1;
+    public int num1;
 }
